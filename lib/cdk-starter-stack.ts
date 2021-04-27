@@ -55,6 +55,8 @@ export class CdkStarterStack extends cdk.Stack {
       'service-role/AWSLambdaBasicExecutionRole',
     );
 
+    console.log('managed policy arn 👉', lambdaManagedPolicy.managedPolicyArn);
+
     // 👇 Import a Customer Managed Policy by Name
     // const customerManagedPolicyByName = iam.ManagedPolicy.fromManagedPolicyName(
     //   this,
