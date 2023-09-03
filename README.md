@@ -1,7 +1,7 @@
 # AWS CDK Managed Policy Example - Complete Guide
 
 A repository for an article on
-[bobbyhadz.com](https://bobbyhadz.com/blog/managed-policy-aws-cdk)
+[bobbyhadz.com](https://bobbyhadz.com/blog/aws-cdk-iam-policy-example)
 
 > If you use CDK v1, switch to the cdk-v1 branch
 
